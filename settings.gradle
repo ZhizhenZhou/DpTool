@@ -1,0 +1,2 @@
+rootProject.name = "DpLink_tool"
+include ':app'
